@@ -1,0 +1,24 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "An attempt to attempt leetcode problems",
+  "main": "index.js",
+  "scripts": {
+    "watch": "ts-node-dev --respawn src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarghamkhandev/leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zarghamkhandev/leetcode/issues"
+  },
+  "homepage": "https://github.com/zarghamkhandev/leetcode#readme",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.1.3"
+  }
+}
